@@ -7,8 +7,9 @@ We are planning to understand the diffusion of a protein HCL-C6 added to a plate
 
 By also taking time laps tests of the bacteria without any signal and different concentrations of it, we should able to calculate the different concentrations in each time, calculating the fluorescence protein synthesis rate, signal concentration and the diffusion constant.
 
-## 
-- [x] Edit [fluopi](https://github.com/SynBioUC/FluoPi) using ours images
+## Task list
+
+- [x] Edit [fluopi](https://github.com/SynBioUC/FluoPi) using our images
 - [ ] ...
 - [ ] Make a model of diffusion
 
